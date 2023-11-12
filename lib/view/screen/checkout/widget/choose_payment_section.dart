@@ -50,7 +50,7 @@ class ChoosePaymentSection extends StatelessWidget {
                       const Divider(),
 
 
-                      orderProvider.paymentMethodIndex != -1?
+                      1 != 1?
                           Row(children: [
                             SizedBox(width: 40, child: CustomImage(image: '${configProvider.configModel?.paymentMethodImagePath}/${configProvider.configModel!.paymentMethods![orderProvider.paymentMethodIndex].additionalDatas!.gatewayImage??''}')),
                             Padding(padding: const EdgeInsets.symmetric(horizontal: Dimensions.paddingSizeSmall),
