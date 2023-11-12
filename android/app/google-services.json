@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72585664190",
+    "project_id": "lavtech-59d27",
+    "storage_bucket": "lavtech-59d27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72585664190:android:069aea055188411d7570ef",
+        "android_client_info": {
+          "package_name": "com.lavtechshopping.india_user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_vIkb9J2SF9Brl3oJ2bkZBAObHfeJcdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
